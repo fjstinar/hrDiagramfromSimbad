@@ -10,3 +10,5 @@ This is a simple python script that converts tabular cluster data from the Simba
 ~~~
 python3 HRDiagrammer.py 'nameOfCsv.csv'
 ~~~
+
+Now in the same directory will be a '.png' image that that is the Hertzsprung-Russell Diagram of the cluster data.
