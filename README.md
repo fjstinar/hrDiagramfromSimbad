@@ -12,3 +12,5 @@ python3 HRDiagrammer.py 'nameOfCsv.csv'
 ~~~
 
 Now in the same directory will be a '.png' image that that is the Hertzsprung-Russell Diagram of the cluster data.
+
+Term Project.pdf is the paper going with the project.
